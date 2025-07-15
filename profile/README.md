@@ -49,7 +49,7 @@ While most of our repositories are private and maintained internally, we welcome
 - Shopify Operations at Scale
 - Tax and Shipping Compliance in eCommerce
 
-📬 Feel free to reach out via issues or GitHub discussions on public repos, or contact our team at **dev@mi-one.com**.
+📬 Feel free to reach out via issues or GitHub discussions on public repos, or contact our team at **TechTeam@mipod.com**.
 
 ---
 
